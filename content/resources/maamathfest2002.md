@@ -4,6 +4,8 @@ description: Slides for MAA Mathfest 2002.
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/e43a387546fff4ca099c82f60a06eefd_maamathfest2002.pdf
 file_size: 1023793
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

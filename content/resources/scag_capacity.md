@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/ee8a6d0c5242a039c2bb9132a37ba716_scag_capacity.pdf
 file_size: 754968
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

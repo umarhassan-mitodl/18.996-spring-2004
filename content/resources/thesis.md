@@ -4,6 +4,8 @@ description: Professor Edelman's Thesis with some of the Eigenvalue density form
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/0c403731899b10ef7d40aa796787dfa7_thesis.pdf
 file_size: 1348395
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

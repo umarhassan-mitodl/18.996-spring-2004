@@ -39,6 +39,7 @@
     "website": "18-996-random-matrix-theory-and-its-applications-spring-2004"
   },
   "course_title": "Random Matrix Theory and Its Applications",
+  "hide_download": true,
   "course_description": "This course is an introduction to the basics of random matrix theory, motivated by engineering and scientific applications.\n",
   "department_numbers": [
     "18",
@@ -50,6 +51,7 @@
     "content": "be3fd2bf-b416-4c48-ee88-59e5b4e00614",
     "website": "18-996-random-matrix-theory-and-its-applications-spring-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples"

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Course description and objectives.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

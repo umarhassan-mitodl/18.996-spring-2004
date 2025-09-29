@@ -4,6 +4,8 @@ description: Student presentation slides.
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/666ec7405b1661fe602d2cef2c190741_numrand_talk2.pdf
 file_size: 287834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
