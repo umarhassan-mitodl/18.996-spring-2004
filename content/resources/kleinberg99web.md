@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/c8b8092213e3858e9bbd6cdf1b65467e_kleinberg99web.pdf
 file_size: 218462
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

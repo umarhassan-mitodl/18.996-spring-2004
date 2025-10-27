@@ -4,8 +4,6 @@ description: Class Handout (Chapter 8).
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/749cb01ecf127828cf7ef9732ddd543f_chapter8.pdf
 file_size: 257402
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

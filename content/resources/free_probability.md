@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/3ff9c04104415cb49dc7e392a0b2a381_free_probability.pdf
 file_size: 306431
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

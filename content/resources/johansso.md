@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-996-random-matrix-theory-and-its-applications-spring-2004/916e191eab4e52f7a8c52744e5cc25d2_johansso.pdf
 file_size: 294987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

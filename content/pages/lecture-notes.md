@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A selection of handouts that were presented and analyzed in class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -26,12 +24,12 @@ Professor Edelman's Thesis with some of the Eigenvalue Density Formulas ({{% re
 
 Multivariate Orthogonal Polynomials Handout ({{% resource_link 26d541dd-0574-1552-443e-1733afe89dba "PDF" %}})
 
-[Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems](http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4%2F26%2F15893%2F00737400.pdf%3Farnumber%3D737400&authDecision=-203) - Winters and Salz
+{{% resource_link "1c5496a8-1d01-4707-b50a-01cc9fe1d4d3" "Upper Bounds on the Bit-Error Rate of Optimum Combining in Wireless Systems" %}} - Winters and Salz
 
-[Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise](http://web.mit.edu/18.996/www/OC-Bounds-TC-02-03.pdf) - Chiani and Win
+{{% resource_link "69f8aa8a-19bb-466b-a4f5-67845afe8d75" "Bounds and Approximations for Optimum Combining of Signals in the Presence of Multiple Cochannel Interferers and Thermal Noise" %}} - Chiani and Win
 
-[A Laguerre Polynomial-based Bound on the Symbol Error Probability for Adaptive Antennas with Optimum Combining](https://ieeexplore.ieee.org/document/1259393) - Chiani, Win, Zanella, and Winters
+{{% resource_link "c8796514-2dfc-4da5-b25d-80d8bf00a5ea" "A Laguerre Polynomial-based Bound on the Symbol Error Probability for Adaptive Antennas with Optimum Combining" %}} - Chiani, Win, Zanella, and Winters
 
-[Error Probability for Optimum Combining of M-ary PSK Signals in the Presence of Interference and Noise](http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F26%2F27921%2F01246005.pdf%3Farnumber%3D1246005&authDecision=-203) - Chiani, Win, and Zanella
+{{% resource_link "bb3fd24f-f9d1-4972-b034-1945ca3aa5c4" "Error Probability for Optimum Combining of M-ary PSK Signals in the Presence of Interference and Noise" %}} - Chiani, Win, and Zanella
 
-[On the Capacity of Spatially Correlated MIMO Rayleigh-fading Channels](https://ieeexplore.ieee.org/document/1237126) - Chiani, Win, and Zanella
+{{% resource_link "dd360460-3b56-48c8-81d2-72714fd0e694" "On the Capacity of Spatially Correlated MIMO Rayleigh-fading Channels" %}} - Chiani, Win, and Zanella
